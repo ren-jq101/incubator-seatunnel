@@ -29,7 +29,7 @@
 
     <artifactId>seatunnel-connector-spark-iceberg</artifactId>
     <properties>
-        <iceberg.version>0.13.1</iceberg.version>
+        <iceberg.version>1.2.0</iceberg.version>
     </properties>
 
     <dependencies>
