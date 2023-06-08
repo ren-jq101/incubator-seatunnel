@@ -30,7 +30,7 @@
     <artifactId>seatunnel-flink-connector-v2-example</artifactId>
     <properties>
         <flink.scope>compile</flink.scope>
-        <mock-webserver.version>3.6.0</mock-webserver.version>
+        <mock-webserver.version>3.9.1</mock-webserver.version>
     </properties>
 
     <dependencies>
