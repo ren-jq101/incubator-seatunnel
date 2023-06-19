@@ -30,7 +30,7 @@
     <artifactId>seatunnel-connector-spark-clickhouse</artifactId>
     
     <properties>
-        <clickhouse.jdbc.version>0.2</clickhouse.jdbc.version>
+        <clickhouse.jdbc.version>0.3.0</clickhouse.jdbc.version>
         <sshd.scp.version>2.7.0</sshd.scp.version>
     </properties>
 
