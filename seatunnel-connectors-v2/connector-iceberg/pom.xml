@@ -67,7 +67,7 @@
             <groupId>org.apache.orc</groupId>
             <artifactId>orc-core</artifactId>
             <classifier>nohive</classifier>
-            <version>1.7.5</version>
+            <version>1.9.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.iceberg</groupId>
