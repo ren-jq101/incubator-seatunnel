@@ -30,7 +30,7 @@
     <artifactId>seatunnel-connector-flink-elasticsearch7</artifactId>
     
     <properties>
-        <elasticsearch7.client.version>7.5.1</elasticsearch7.client.version>
+        <elasticsearch7.client.version>7.17.11</elasticsearch7.client.version>
     </properties>
 
     <dependencies>
