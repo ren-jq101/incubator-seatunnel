@@ -31,7 +31,7 @@
     
     <properties>
         <clickhouse-jdbc.version>0.2</clickhouse-jdbc.version>
-        <sshd.version>2.7.0</sshd.version>
+        <sshd.version>2.10.0</sshd.version>
     </properties>
 
     <dependencies>
