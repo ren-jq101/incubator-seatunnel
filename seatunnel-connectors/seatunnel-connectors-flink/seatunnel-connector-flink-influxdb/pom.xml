@@ -29,7 +29,7 @@
 
     <artifactId>seatunnel-connector-flink-influxdb</artifactId>
     <properties>
-        <influxdb-java.version>2.22</influxdb-java.version>  
+        <influxdb-java.version>2.23</influxdb-java.version>  
     </properties>
 
     <dependencies>
