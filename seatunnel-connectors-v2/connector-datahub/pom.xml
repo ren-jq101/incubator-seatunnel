@@ -28,7 +28,7 @@
   <artifactId>connector-datahub</artifactId>
     
     <properties>
-        <datahub.version>2.19.0-public</datahub.version>
+        <datahub.version>2.24.9</datahub.version>
     </properties>
 
   <dependencies>
