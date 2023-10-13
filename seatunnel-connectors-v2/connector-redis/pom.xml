@@ -30,7 +30,7 @@
     <artifactId>connector-redis</artifactId>
     
     <properties>
-        <jedis.version>4.2.2</jedis.version>
+        <jedis.version>jedis-3.6.2</jedis.version>
     </properties>
 
     <dependencies>
