@@ -30,7 +30,7 @@
     <artifactId>connector-sentry</artifactId>
 
     <properties>
-        <sentry.version>5.0.1</sentry.version>
+        <sentry.version>6.25.2</sentry.version>
     </properties>
 
     <dependencies>
