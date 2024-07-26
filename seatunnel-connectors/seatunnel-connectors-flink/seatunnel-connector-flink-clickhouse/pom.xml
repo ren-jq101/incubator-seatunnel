@@ -30,7 +30,7 @@
     <artifactId>seatunnel-connector-flink-clickhouse</artifactId>
     
     <properties>
-        <clickhouse-jdbc.version>0.2</clickhouse-jdbc.version>
+        <clickhouse-jdbc.version>0.3.2</clickhouse-jdbc.version>
         <sshd.version>2.7.0</sshd.version>
     </properties>
 
