@@ -31,7 +31,7 @@
     <artifactId>seatunnel-api-flink</artifactId>
     
     <properties>
-        <avro.version>1.8.2</avro.version>
+        <avro.version>1.12.0</avro.version>
     </properties>
 
     <dependencies>
