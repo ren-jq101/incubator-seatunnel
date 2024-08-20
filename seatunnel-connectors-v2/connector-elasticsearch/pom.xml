@@ -30,7 +30,7 @@
     <artifactId>connector-elasticsearch</artifactId>
     
     <properties>
-        <elasticsearch-rest-client.version>7.5.1</elasticsearch-rest-client.version>
+        <elasticsearch-rest-client.version>7.17.17</elasticsearch-rest-client.version>
         <jackson.databind.version>2.12.6</jackson.databind.version>
         <jackson-datatype-jsr310.version>2.13.3</jackson-datatype-jsr310.version>
     </properties>
