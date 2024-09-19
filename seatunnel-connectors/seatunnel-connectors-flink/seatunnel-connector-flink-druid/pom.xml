@@ -30,7 +30,7 @@
     <artifactId>seatunnel-connector-flink-druid</artifactId>
     
     <properties>
-        <druid.version>0.22.1</druid.version>
+        <druid.version>30.0.1</druid.version>
         <calcite-druid.version>1.29.0</calcite-druid.version>
     </properties>
     
