@@ -29,7 +29,7 @@
 
     <artifactId>seatunnel-connector-spark-hbase</artifactId>
     <properties>
-        <hbase.spark.version>1.0.0</hbase.spark.version>
+        <hbase.spark.version>1.0.1</hbase.spark.version>
     </properties>
 
     <dependencies>
