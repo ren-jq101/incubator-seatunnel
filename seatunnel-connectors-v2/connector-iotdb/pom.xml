@@ -29,7 +29,7 @@
 
     <artifactId>connector-iotdb</artifactId>
     <properties>
-        <iotdb.version>0.13.1</iotdb.version>
+        <iotdb.version>1.3.0</iotdb.version>
     </properties>
 
     <dependencies>
