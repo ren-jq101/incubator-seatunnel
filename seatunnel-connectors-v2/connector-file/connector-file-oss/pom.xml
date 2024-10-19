@@ -29,7 +29,7 @@
 
     <artifactId>connector-file-oss</artifactId>
     <properties>
-        <hadoop-aliyun.version>2.9.2</hadoop-aliyun.version>
+        <hadoop-aliyun.version>3.4.1</hadoop-aliyun.version>
     </properties>
 
     <dependencies>
