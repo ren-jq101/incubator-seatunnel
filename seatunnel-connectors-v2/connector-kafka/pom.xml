@@ -30,7 +30,7 @@
     <artifactId>connector-kafka</artifactId>
     
     <properties>
-        <kafka.client.version>3.2.0</kafka.client.version>
+        <kafka.client.version>3.7.2</kafka.client.version>
     </properties>
 
     <dependencies>
